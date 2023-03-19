@@ -1,0 +1,23 @@
+.subscriptions {
+    font-family: Arial, sans-serif;
+  }
+  
+  .subscriptions h2 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .subscriptions form {
+    margin-bottom: 1rem;
+  }
+  
+  .subscriptions label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .subscriptions p {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
